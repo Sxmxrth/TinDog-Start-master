@@ -80,13 +80,24 @@ p{
 }
 
 #testimonials{
-    padding: 7% 15%;
+    padding: 7% 15% 4% 15%;
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ef8172;
     color: #fff;
 }
 
 .dog-img{
     width: 15%;
     clip-path: circle(46.8% at 50% 50%);
+}
+
+#press{
+    background-color:#ef8172 ;
+    text-align: center;
+    padding: 5rem;
+}
+
+.logo{
+    width: 18%;
+    padding: 2rem;
 }
