@@ -17,6 +17,9 @@ h2{
     font-size: 3rem;
     line-height: 1.5;
     margin-bottom: 2rem;
+    margin-left: 23rem;
+    margin-right: 23rem;
+    margin-top: 5rem;
 }
 
 h3{
@@ -80,15 +83,18 @@ p{
 }
 
 #testimonials{
-    padding: 7% 15% 4% 15%;
+    
     text-align: center;
     background-color: #ef8172;
     color: #fff;
 }
 
-.dog-img{
+.testimonial-image{
     width: 15%;
     clip-path: circle(46.8% at 50% 50%);
+}
+.carousal-item{
+    padding: 7% 15% 4% 15%;
 }
 
 #press{
