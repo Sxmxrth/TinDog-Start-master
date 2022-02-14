@@ -13,7 +13,7 @@ h1{
     line-height: 1.5;
     
 }
-h2{
+.testimonial-text{
     font-size: 3rem;
     line-height: 1.5;
     margin-bottom: 2rem;
@@ -108,3 +108,13 @@ p{
     padding: 2rem;
 }
 
+.card-group{
+    padding: 7rem,18rem;
+}
+
+#pricingbox{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-bottom: 7rem;
+    padding-top: 7rem;
+}
