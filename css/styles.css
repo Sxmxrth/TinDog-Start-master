@@ -72,7 +72,7 @@ p{
 /* download buttons */
 
 .download-button{
-    margin: 5% 3% 5% 0;
+    margin: 5% 3% 8% 0;
 }
 
 
@@ -156,4 +156,15 @@ p{
     line-height: 1.5;
     font-weight: 900;
     
+}
+#footer{
+    text-align: center;
+}
+.lastedit{
+    margin: 1rem;
+
+}
+
+.copyrights{
+    margin-top: 3rem;
 }
