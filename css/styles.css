@@ -168,9 +168,12 @@ p{
     margin-top: 3rem;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 1260px) {
     .iphone{
         transform: rotate(0);
+    }
+    #title{
+        text-align: center;
     }
     
 }
