@@ -1,7 +1,6 @@
 body{
     font-family: "Montserrat";
 }
-
 #title{
     background-color:#ff4c68 ;
     color: #fff;
@@ -167,4 +166,11 @@ p{
 
 .copyrights{
     margin-top: 3rem;
+}
+
+@media (max-width: 1028px) {
+    .iphone{
+        transform: rotate(0);
+    }
+    
 }
